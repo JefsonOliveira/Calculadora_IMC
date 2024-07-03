@@ -13,6 +13,11 @@
 - **Frontend**: ReactJS
 - **Estilo**: CSS
 
+## Imagens
+
+![Tela Inicial]`./imc_calc/public/Captura de tela de 2024-07-03 12-52-07.png`
+![Tela de Resultado]`./imc_calc/public/Captura de tela de 2024-07-03 12-52-37.png`
+
 ## Instalação e Uso
 
 Para rodar o projeto localmente, siga os passos abaixo:
