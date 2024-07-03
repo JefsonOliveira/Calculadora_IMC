@@ -15,8 +15,11 @@
 
 ## Imagens
 
-![Tela Inicial]`./imc_calc/public/Captura de tela de 2024-07-03 12-52-07.png`
-![Tela de Resultado]`./imc_calc/public/Captura de tela de 2024-07-03 12-52-37.png`
+## Imagens
+
+![Tela Inicial](./imc_calc/public/Captura%20de%20tela%20de%202024-07-03%2012-52-07.png)
+![Tela de Resultado](./imc_calc/public/Captura%20de%20tela%20de%202024-07-03%2012-52-37.png)
+
 
 ## Instalação e Uso
 
