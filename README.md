@@ -15,11 +15,10 @@
 
 ## Imagens
 
-
-<img src="./imc_calc/public/Captura%20de%20tela%20de%202024-07-03%2012-52-07.png" alt="Tela Inicial" width="400" />
-<img src="./imc_calc/public/Captura%20de%20tela%20de%202024-07-03%2012-52-37.png" alt="Tela de Resultado" width="400" />
-
-
+<div style="display: flex; justify-content: space-around;">
+  <img src="./imc_calc/public/Captura%20de%20tela%20de%202024-07-03%2012-52-07.png" alt="Tela Inicial" width="400" />
+  <img src="./imc_calc/public/Captura%20de%20tela%20de%202024-07-03%2012-52-37.png" alt="Tela de Resultado" width="400" />
+</div>
 
 ## Instalação e Uso
 
